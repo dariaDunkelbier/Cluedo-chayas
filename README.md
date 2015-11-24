@@ -1,2 +1,2 @@
 # Cluedo-chayas
-Datenvisualisierung Cluedo vs Clue
+Datenvisualisierung Cluedo vs. Clue
